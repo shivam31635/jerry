@@ -58,7 +58,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/MLZ_BOTZ)</code>
+<code>[Button Text](buttonurl:https://t.me/bots_up)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -170,9 +170,9 @@ Nᴀᴍᴇ - {}
 <b>@at3movies {file_name}
 
 ╭────── • ◆ • ──────╮
-📮ᴊᴏɪɴ : <a href='https://t.me/CKTalkies'>ᴄʜᴀɴɴᴇʟ</a>
-🔖 ᴍᴏᴠɪᴇs : <a href='https://t.me/at3movies'>ɢʀᴏᴜᴘ</a>
-🖤 Dᴀʀᴋ Mᴏᴅᴇ : <a href='https://t.me/addtheme/DQ_The_File_Donor_Theme'>Tᴏᴜᴄʜ</a>
+📮ᴊᴏɪɴ : <a href='https://t.me/bots_up'>ᴄʜᴀɴɴᴇʟ</a>
+🔖 ᴍᴏᴠɪᴇs : <a href='https://t.me/bots_up'>ɢʀᴏᴜᴘ</a>
+🖤 Dᴀʀᴋ Mᴏᴅᴇ : <a href='https://t.me/bots_up'>Tᴏᴜᴄʜ</a>
 ╰────── • ◆ • ──────╯
   ♡ ㅤ  ❍ㅤ     ⎙     ⌲
   ˡᶦᵏᵉ ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ</b>"""
@@ -428,8 +428,8 @@ coммand and υѕeѕ
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : ᴀꜰsᴀʟ ʜᴀsʜɪᴍ
-• ᴜꜱᴇʀɴᴀᴍᴇ : @af_x_su
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/crazyspiderr'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Abdul88822
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/Abdul88822'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 """
     CLOSE_TXT = """
 <b>⚙️ {message.from_user.mention} Fɪʟᴛᴇʀ Fᴏʀ {search} Cʟᴏꜱᴇᴅ 🗑️</b>"""
