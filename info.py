@@ -58,8 +58,8 @@ REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 
 # Custom Chats
-FILE_CHANNEL = int(environ.get('FILE_CHANNEL', '-1001616308548'))
-FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 'https://t.me/TGxMULTIBOTDB')
+FILE_CHANNEL = int(environ.get('FILE_CHANNEL', '-1001569815531'))
+FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 'https://t.me/fileddhh')
 
 #VALUES
 HRK_APP_NAME = environ.get('HRK_APP_NAME', 'mybots')
@@ -95,17 +95,17 @@ APPROVED = environ.get("APPROVED_WELCOME", "on").lower()
 
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'shorturllink.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'b4d510e7b1e56da54f43c9e27569ee0a281121db')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'mdiskshortner.link')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'e0c6422a17c2c50c426815f666fb86c826684866')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 NO_RESULTS_MSG = bool(environ.get('NO_RESULTS_MSG', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "7")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "False")), False)
-S_GROUP = environ.get('S_GROUP',"https://t.me/MLZ_BOTZ_SUPPORT")
-MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/MLZ_BOTZ")
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/MLZ_BOTZ_SUPPORT')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/MLZ_BOTZ')
+S_GROUP = environ.get('S_GROUP',"https://t.me/bots_up")
+MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/bots_up")
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/bots_up')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/bots_up')
 MSG_ALRT = environ.get('MSG_ALRT', 'Piracy Is Crime')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', 0))
