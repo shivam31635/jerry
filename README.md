@@ -1,9 +1,9 @@
 <h1 align="center">
-  TOM-BOT
+  JERRY
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/23fd6057f6ce013284277.jpg" alt="CREZY-DEVELOPER-BOTZ Logo">
+  <img src="[https://telegra.ph/file/23fd6057f6ce013284277.jpg](https://telegra.ph/file/79e87cd4a151bfd4b7c09.jpg)" alt="CREZY-BOTZ Logo">
 </p>
 <h1 align="center">
   CREZY DEVELOPER BOTZ
