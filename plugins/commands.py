@@ -25,7 +25,7 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                   ],[
-                    InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://t.me/crazybot'),
+                    InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://t.me/crazybotz'),
                     InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/crazysupportz')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -137,10 +137,9 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton("🎁𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩​🎁", url=f'http://t.me/TGxMULTIBOT?startgroup=true')
-                        ],[
-                          InlineKeyboardButton("🌿 ɢʀᴏᴜᴘ", url='https://t.me/at3movies'),
-                          InlineKeyboardButton("🍂 ᴄʜᴀɴɴᴇʟ", url='https://t.me/CKTalkies')
+                          
+
+                           InlineKeyboardButton("🍂 ᴄʜᴀɴɴᴇʟ", url='https://t.me/CKTalkies')
                          ]
                         ]
                     )
