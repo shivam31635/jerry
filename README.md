@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/79e87cd4a151bfd4b7c09.jpg" alt="CREZY-BOTZ Logo">
+  <img src="https://graph.org/file/b3832a32c9884a1fa26a4.jpg" alt="CREZY-BOTZ Logo">
 </p>
 <h1 align="center">
   CREZY BOTZ
