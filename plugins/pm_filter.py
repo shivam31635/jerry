@@ -65,7 +65,7 @@ async def give_filter(client, message):
                 
             ]
         
-        m=await message.reply_sticker("CAACAgUAAxkBAAINdmL9uWnC3ptj9YnTjFU4YGr5dtzwAAIEAAPBJDExieUdbguzyBAeBA")
+        m=await message.reply_sticker("CAACAgIAAxkBAAIEOWRnXp1D7GyF2fdvMJkrWQnceaPOAAJxCAAChJRBSW9oCRqmu85zHgQ")
         await asyncio.sleep(1)
         await m.delete()
         await client.send_message(
